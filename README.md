@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Calebe Giordano
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front End`**
 
 Me chamo Calebe Giordano, tenho 19 anos moro em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FacSenac. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do github, onde crio diversos projetos web.
 

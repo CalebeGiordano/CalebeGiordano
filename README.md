@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Calebe Giordano
+# 🧑🏻‍💻 Calebe Giordano
 
 **`Desenvolvedor Front End`**
 

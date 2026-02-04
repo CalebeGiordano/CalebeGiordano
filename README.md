@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Calebe Giordano, tenho 19 anos moro em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FacSenac. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do github, onde crio diversos projetos web.
+Me chamo Calebe Giordano, tenho 20 anos moro em Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FacSenac. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do github, onde crio diversos projetos web.
 
 
 
